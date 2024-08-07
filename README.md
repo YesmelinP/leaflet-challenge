@@ -22,9 +22,9 @@ The HTML file that serves as the foundation for our web application, structuring
 
 ### Deployment
 This application can be hosted on platforms like GitHub Pages for public access.
-this is the link => https://yesmelinp.github.io/leaflet-challenge/Leaflet-Part-1/index.html
+[This is the link ](https://yesmelinp.github.io/leaflet-challenge/Leaflet-Part-1/index.html)
 
 ### Resources 
 - [Leaflet Overall Documentation ](https://leafletjs.com)
-- [Leaflet Documentation for the creation of the legend ](https://leafletjs.com/examples/choropleth/)
+- [Leaflet Documentation For the Legend Creation ](https://leafletjs.com/examples/choropleth/)
 
