@@ -25,6 +25,6 @@ This application can be hosted on platforms like GitHub Pages for public access.
 this is the link => https://yesmelinp.github.io/leaflet-challenge/Leaflet-Part-1/index.html
 
 ### Resources 
-[Leaflet Overall Documentation ](https://leafletjs.com)
-[Leaflet Documentation for the creation of the legend ](https://leafletjs.com/examples/choropleth/)
+- [Leaflet Overall Documentation ](https://leafletjs.com)
+- [Leaflet Documentation for the creation of the legend ](https://leafletjs.com/examples/choropleth/)
 
