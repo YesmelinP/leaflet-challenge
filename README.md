@@ -24,4 +24,6 @@ The HTML file that serves as the foundation for our web application, structuring
 This application can be hosted on platforms like GitHub Pages for public access.
 this is the link => https://yesmelinp.github.io/leaflet-challenge/Leaflet-Part-1/index.html
 
-
+### Resources 
+https://leafletjs.com/examples/choropleth/
+https://leafletjs.com
